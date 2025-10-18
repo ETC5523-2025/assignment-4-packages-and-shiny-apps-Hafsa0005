@@ -7,12 +7,13 @@
 launch_haiexplorer()
 }
 \value{
-Starts a Shiny app in your default web browser.
+Invisibly returns the \code{shiny} application object (invisibly). The
+primary effect is to open a browser window or viewer containing the app.
 }
 \description{
-This function launches the interactive Shiny application included in the
-BHAIpkgHafsa package. The app allows users to explore healthcare-associated
-infection (HAI) burden data by infection type with interactive plots and tables.
+Start the interactive Shiny application bundled with the \code{BHAIpkgHafsa}
+package. The app visualises healthcare-associated infection (HAI) burden
+by infection type and provides interactive plotting and summary tables.
 }
 \examples{
 if (interactive()) {
