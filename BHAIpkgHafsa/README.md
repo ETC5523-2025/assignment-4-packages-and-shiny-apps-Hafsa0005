@@ -29,10 +29,10 @@ It provides:
 
 library(BHAIpkgHafsa)
 
-# View the dataset
+#### View the dataset
 head(healthcare_associated_infections)
 
-# Launch the interactive Shiny app
+#### Launch the interactive Shiny app
 if (interactive()) {
   launch_haiexplorer()
 }
