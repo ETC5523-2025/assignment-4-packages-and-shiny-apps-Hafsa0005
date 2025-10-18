@@ -4,7 +4,6 @@ library(shiny)
 library(shinythemes)
 library(tidyverse)
 library(plotly)
-library(BHAIpkgHafsa)
 
 # Load packaged data
 data("healthcare_associated_infections", package = "BHAIpkgHafsa")
