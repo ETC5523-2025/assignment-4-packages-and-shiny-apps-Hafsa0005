@@ -76,13 +76,13 @@ https://ETC5523-2025.github.io/assignment-4-packages-and-shiny-apps-Hafsa0005/
 
 You can also access the vignette locally after installation:
 
-# browseVignettes("BHAIpkgHafsa")
+## browseVignettes("BHAIpkgHafsa")
 
-## License
+### License
 
 This package is licensed under the MIT License — see the LICENSE file for details.
 
-## Author
+### Author
 
 Hafsa Altaf
 Developed as part of ETC5523 — Communicating with Data assignment. (Monash University, 2025).
