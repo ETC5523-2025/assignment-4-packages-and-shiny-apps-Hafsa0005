@@ -93,6 +93,10 @@ Developed as part of ETC5523 — Communicating with Data assignment. (Monash Uni
 
 - Interactive visualisation powered by shiny, plotly, and ggplot2.
 
+## pkgdown Site
+
+You can view the package documentation and vignette here:  
+👉 [BHAIpkgHafsa pkgdown site]( https://etc5523-2025.github.io/assignment-4-packages-and-shiny-apps-Hafsa0005/)
 
 
 
