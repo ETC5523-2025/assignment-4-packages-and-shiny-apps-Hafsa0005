@@ -1,0 +1,6 @@
+Infection_Type,Number_of_HAIs,Number_of_attributable_deaths
+BSI,40000,4000
+CDI,25000,2000
+HAP,1.00E+05,4200
+SSI,90000,2200
+UTI,180000,3800
