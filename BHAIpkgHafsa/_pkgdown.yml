@@ -10,7 +10,12 @@ home:
   contents: |
     <p><strong>BHAIpkgHafsa</strong> provides tools and an interactive Shiny application to explore the burden of healthcare-associated infections (HAIs) by infection type.</p>
     <p>This site contains function reference documentation and a vignette that demonstrates usage and how to launch the Shiny app.</p>
-    <p><a class="btn btn-primary" href="articles/Using_BHAIpkgHafsa.html">Read the vignette</a></p>
+    <p><a class="btn btn-primary" href="articles/BHAIpkgHafsa.html">Read the vignette</a></p>
+
+articles:
+  - title: "Using the BHAIpkgHafsa Package"
+    contents:
+      - BHAIpkgHafsa
 
 navbar:
   structure:
